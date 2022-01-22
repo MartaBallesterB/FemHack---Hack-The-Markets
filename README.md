@@ -1,5 +1,5 @@
 # Hack The Markets - EDA
-*Instrucciones del reto*
+*Instrucciones del reto para el International FemHack*
 
 
 ### Resumen
